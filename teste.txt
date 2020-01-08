@@ -1,1 +1,2 @@
-um arquivo para teste GIT
+um arquivo para teste GIT 
+Apredendo sobre git
